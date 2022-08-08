@@ -26,7 +26,7 @@ export default function App() {
       base64: false
     });
 
-    await shareAsync(file.uri= Source=require={'https://idsp.nic.in/WriteReadData/l892s/7295787021644495213.pdf'});
+    await shareAsync(file.uri= Source=req{'https://idsp.nic.in/WriteReadData/l892s/7295787021644495213.pdf'});
   };
 
   return (
